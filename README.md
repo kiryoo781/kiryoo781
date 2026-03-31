@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-I’m a vocasional high school  student (smk) who have a big dream :)
+I’m a vocasional high school student (smk) who have a big dream :)
 
 ---
 
@@ -22,15 +22,15 @@ I’m a vocasional high school  student (smk) who have a big dream :)
 - canva
 ---
 
-## 🚀 Goals
+## ✨ Goals
 - create a web & application
+- make parent happy from my achievements
 
 ---
 
 ## 🎮 Interests
 - Web Development
 - Game Development
-- Animation
 - coding analysis
 - Gaming
 
@@ -43,22 +43,21 @@ I’m a vocasional high school  student (smk) who have a big dream :)
 
 ---
 
-## 📺 YouTube
+## 📷 Instagram
 <p align="center">
-  <a href="https://www.youtube.com/@DanzionnOfficial">
-    <img src="https://img.shields.io/badge/YouTube-DanzionnOfficial-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.instagram.com/deep_martial/">
   </a>
 </p>
 
 ---
 
-## 🧩 Fun Fact
-> “Great developers don’t just write code — they build experiences.”
+## 🎭 Fun Fact
+> “Great developers don’t only make a program or write a code”<
 
-I believe every line of code is a step toward something bigger.
+ but, they make a compatible application/web and their team can understand what programmer write on coding progress
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZzaTZjbDE2Nzc2eWxjNXFudHF5NjlxOWZiOWhxb3FldTg2d3ZjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" width="300" />
 </p>
