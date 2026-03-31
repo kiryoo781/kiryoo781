@@ -45,14 +45,14 @@ I’m a vocasional high school student (smk) who have a big dream :)
 
 ## 📷 Instagram
 <p align="center">
-  <a href="https://www.instagram.com/deep_martial/">
+  <a href="https://www.instagram.com/deep_martial/"> CLICK HERE!
   </a>
 </p>
 
 ---
 
 ## 🎭 Fun Fact
-> “Great developers don’t only make a program or write a code”<
+> “Great developers don’t only make a program or write a code”
 
  but, they make a compatible application/web and their team can understand what programmer write on coding progress
 
